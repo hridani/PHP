@@ -1,0 +1,15 @@
+table {
+
+display: inline-table;
+border-collapse: collapse;
+margin: 1%;
+border-top:solid 0px #000000;
+font-family:tahoma;
+font-size:8px;
+background-color:#fff"
+}
+
+table thead tr {
+border-bottom: dashed 1px #000;
+border-top: solid 1px #000;
+}
